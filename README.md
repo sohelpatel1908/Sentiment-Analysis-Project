@@ -22,3 +22,8 @@ This project is an end-to-end Machine Learning solution that analyzes the sentim
 ## 📂 Dataset
 The dataset used is the [Sentiment140 Dataset from Kaggle](https://www.kaggle.com/kazanova/sentiment140).
 *(Note: The dataset is not included in this repo due to size constraints.)*
+
+## 🚀 What Can Be Improved? (Future Improvements🔧):
+➕ **Advanced Embedding:** Moving from TF-IDF to Sentence Transformers (all-MiniLM-L6-v2) for better semantic understanding.
+➕ **Deep Learning:** Implementing LSTMs or BERT to better capture long-term dependencies in complex tweets.
+➕ **Comparing Algorithms:** Comparing Logistic Regression against Random Forest and Naive Bayes for better speed and accuracy.
